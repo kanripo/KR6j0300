@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:37.412717
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:48
 #+TITLE: 不空羂索神變真言經
 #+PROPERTY: CBETA_ID T20n1092
 #+PROPERTY: ID KR6j0300
@@ -434,7 +434,7 @@
 道。生生不受胎卵濕化。壽恒不退。從一佛剎¶
 至一佛剎。蓮花化生具宿命智。¶
 
-5法界密印莊嚴品
+* 5法界密印莊嚴品
 :PROPERTIES:
 :head: 法界密印莊嚴品第五
 :END:

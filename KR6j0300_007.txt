@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:37.496145
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:48
 #+TITLE: 不空羂索神變真言經
 #+PROPERTY: CBETA_ID T20n1092
 #+PROPERTY: ID KR6j0300
@@ -16,7 +16,7 @@
 ¶
 大唐天竺三藏菩提流志譯¶
 
-7護摩增益品
+* 7護摩增益品
 :PROPERTIES:
 :head: 護摩增益品第七
 :END:
@@ -411,7 +411,7 @@
 天二十八宿主星天神。常於國中不生災怪¶
 加被擁護。¶
 
-8祕密灌頂品
+* 8祕密灌頂品
 :PROPERTIES:
 :head: 祕密灌頂品第八
 :END:

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:37.450036
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:48
 #+TITLE: 不空羂索神變真言經
 #+PROPERTY: CBETA_ID T20n1092
 #+PROPERTY: ID KR6j0300
@@ -16,7 +16,8 @@
 ¶
 大唐天竺三藏菩提流志譯¶
 
-6罥索成就品
+* 6罥索成就品
+** 1
 :PROPERTIES:
 :head: 羂索成就品第六之一
 :END:
